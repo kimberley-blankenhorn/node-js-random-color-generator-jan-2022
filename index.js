@@ -20,4 +20,4 @@ const multiLine = `  ############################
   ############################
   ############################`;
 
-console.log(chalk.hex(color).bold(multiLine));
+console.log(chalk.hex(colorInput).bold(multiLine));
